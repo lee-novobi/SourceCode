@@ -1,0 +1,23 @@
+/* Main.css version 1.0
+ * Project : Monitor Assistant
+ * Designer : SDK - VNG
+================================================== */
+/* BEGIN: MAIN PAGE */
+.contact-link { margin-left: 2px; margin-right: 2px;}
+.email img {margin-bottom: 2px;}
+
+/* CSS Style for Num of case CS and 123Pay */
+.numof-case {
+	background-color: #EDEDE4; 
+	padding: 1px 5px; 
+	font-weight: bold; 
+	color: #0000A3;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+div.scrollWrapper {
+  	height:350px;
+  	overflow:scroll;
+}

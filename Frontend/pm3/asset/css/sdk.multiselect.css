@@ -1,0 +1,25 @@
+.sdk-select-2side-container
+{
+	overflow: auto;
+	zoom: 1;
+}
+.sdk-select-2side-container .sdk-select-2side-avail,
+.sdk-select-2side-container .sdk-select-2side-control,
+.sdk-select-2side-container .sdk-select-2side-selected
+{
+	float: left;
+	margin-right: 5px;
+	height: 190px;
+}
+
+.sdk-select-2side-container .sdk-select-2side-control p
+{
+	cursor: default;
+	color: gray;
+	border: 1px solid gray;
+	background-color: #F0F0F0;
+	font-size: 10pt;
+	margin: 2px 0;
+	padding: 0 15px;
+	line-height: 16px;
+}

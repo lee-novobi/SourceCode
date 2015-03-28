@@ -1,0 +1,142 @@
+                127.0.0.1       2013-12-09 14:00:07 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:00:07 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.036] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:00:07 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:00:07 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.036] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:45:10 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:45:10 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.013] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:45:10 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:45:10 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.013] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:45:11 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:45:11 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:45:11 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:45:11 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:45:57 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:45:57 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:45:57 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:45:57 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:46:27 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:46:27 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:46:27 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:46:27 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:46:40 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:46:40 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:46:40 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:46:40 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:47:25 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:47:25 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:47:25 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:47:25 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:10 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:48:10 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:10 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:48:10 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:53 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:48:53 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:53 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 14:48:53 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:57 -->	SELECT * FROM 1_roles WHERE deleted=0 AND id='6' LIMIT 1
+                127.0.0.1       2013-12-09 14:48:57 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id='6' ORDER BY rp.role_id,rp.department,rp.product,pn.name
+[took:0.086] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:57 -->	SELECT * FROM 1_roles WHERE deleted=0 AND id='6' LIMIT 1
+                127.0.0.1       2013-12-09 14:48:57 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id='6' ORDER BY rp.role_id,rp.department,rp.product,pn.name
+[took:0.086] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT * FROM 1_roles WHERE deleted=0 AND id='8' LIMIT 1
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id IN (6,7) ORDER BY rp.role_id,rp.department,rp.product,pn.name
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id='8' ORDER BY rp.role_id,rp.department,rp.product,pn.name
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT * FROM 1_roles WHERE deleted=0 AND id='8' LIMIT 1
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id IN (6,7) ORDER BY rp.role_id,rp.department,rp.product,pn.name
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id='8' ORDER BY rp.role_id,rp.department,rp.product,pn.name
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT * FROM 1_roles WHERE deleted=0 AND id='7' LIMIT 1
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id IN (6) ORDER BY rp.role_id,rp.department,rp.product,pn.name
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id='7' ORDER BY rp.role_id,rp.department,rp.product,pn.name
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT * FROM 1_roles WHERE deleted=0 AND id='7' LIMIT 1
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id IN (6) ORDER BY rp.role_id,rp.department,rp.product,pn.name
+                127.0.0.1       2013-12-09 14:48:59 -->	SELECT r.id role_id,rp.priority,rp.value,rp.product,rp.permission_name_id,rp.department,r.description role_name,IF(rp.product=0,'All Product',p.name) product_name,pn.name permission_name,IF(rp.department=0,'All Department',d.name) department_name,rp.comment FROM 1_role_permissions rp INNER JOIN 1_roles r ON(r.deleted=0 AND r.id=rp.role_id) INNER JOIN 5_permission_name pn ON(rp.permission_name_id=pn.id AND pn.deleted=0) LEFT JOIN 4_products p ON(p.deleted=0 AND p.id=rp.product) LEFT JOIN 6_departments d ON(d.deleted=0 AND d.id=rp.department) WHERE rp.deleted=0 AND rp.role_id='7' ORDER BY rp.role_id,rp.department,rp.product,pn.name
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:27:21 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:27:21 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:27:21 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:27:21 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:35:23 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:35:23 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:35:23 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:35:23 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:36:24 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:36:24 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:36:24 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:36:24 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:47:23 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:47:23 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:47:23 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:47:23 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:54:59 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:54:59 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:54:59 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:54:59 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:55:13 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:55:13 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 15:55:13 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 15:55:13 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:12:19 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:12:19 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:12:19 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:12:19 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:12:25 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:12:25 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:12:25 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:12:25 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:14:42 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:14:42 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:14:42 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:14:42 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:24:12 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:24:12 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:24:12 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:24:12 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:29:53 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:29:53 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-09 16:29:53 -->	SELECT id,description,hie_path FROM 1_roles WHERE deleted=0
+                127.0.0.1       2013-12-09 16:29:53 -->	SELECT * FROM 1_role_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------

@@ -1,0 +1,14 @@
+USERLOG 127.0.0.1       2014-02-07 14:31:45 -->                  / Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:31:46 -->                  /index.php/js/constants Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:31:51 -->                  /pm/rm Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:31:51 -->                  /index.php/js/constants Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:31:57 -->                  /pm/ajax_list_role?g=13 Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:31:57 -->                  /pm/ajax_load_group_detail?g=13 Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:32:01 -->                  /pm/ajax_load_group_detail?g=14 Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:32:01 -->                  /pm/ajax_list_role?g=14 Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:32:04 -->                  /pm/ajax_list_role?g=4 Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:32:04 -->                  /pm/ajax_load_group_detail?g=4 Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:32:04 -->                  /pm/ajax_get_role_detail?r=1 Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:32:19 -->                  /pm/ajax_list_department?tid=cboNewGroupDepartment&tname=cboNewGroupDepartment&tclass=wp100 Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:32:23 -->                  /pm/ajax_get_permission_table_for_create_new_role Request Method: GET
+USERLOG 127.0.0.1       2014-02-07 14:32:23 -->                  /pm/ajax_list_department?tid=cboNewRoleDepartment&tname=cboNewRoleDepartment&tclass=wp100 Request Method: GET

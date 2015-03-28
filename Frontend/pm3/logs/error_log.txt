@@ -1,0 +1,286 @@
+[Fri Dec 06 14:49:53 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/asset/images/uploads/users/.jpg, referer: http://localhost:8822/
+[Mon Dec 09 13:57:27 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/asset/images/uploads/users/.jpg, referer: http://localhost:8822/
+[Mon Dec 09 13:57:30 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/pm, referer: http://localhost:8822/
+[Mon Dec 09 13:57:30 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/favicon.ico
+[Mon Dec 09 13:57:55 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/pm
+[Tue Dec 10 10:57:56 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 458, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:57:56 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:57:56 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:57:56 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:57:56 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array(*uninitialized*, *uninitialized*) D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:57:56 2013] [error] [client 127.0.0.1] PHP   4. Pm->rm() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:57:56 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->LoadGroupTree() D:\\www\\pmc_v2\\application\\controllers\\pm.php:106, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:21 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 458, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:21 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:21 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:21 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:21 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array(*uninitialized*, *uninitialized*) D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:21 2013] [error] [client 127.0.0.1] PHP   4. Pm->rm() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:21 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->LoadGroupTree() D:\\www\\pmc_v2\\application\\controllers\\pm.php:106, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:45 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 458, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:45 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:45 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:45 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:45 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array(*uninitialized*, *uninitialized*) D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:45 2013] [error] [client 127.0.0.1] PHP   4. Pm->rm() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 10:59:45 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->LoadGroupTree() D:\\www\\pmc_v2\\application\\controllers\\pm.php:106, referer: http://localhost:8822/index.php?XDEBUG_SESSION_START=netbeans-xdebug
+[Tue Dec 10 16:51:24 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 461
+[Tue Dec 10 16:51:24 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Tue Dec 10 16:51:24 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0
+[Tue Dec 10 16:51:24 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202
+[Tue Dec 10 16:51:24 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359
+[Tue Dec 10 16:51:24 2013] [error] [client 127.0.0.1] PHP   4. Pm->rm() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359
+[Tue Dec 10 16:51:24 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->LoadGroupTree() D:\\www\\pmc_v2\\application\\controllers\\pm.php:106
+[Wed Dec 11 16:21:52 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 23
+[Wed Dec 11 16:21:52 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Wed Dec 11 16:21:52 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0
+[Wed Dec 11 16:21:52 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202
+[Wed Dec 11 16:21:52 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359
+[Wed Dec 11 16:21:52 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_list_role() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359
+[Wed Dec 11 16:21:52 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->ListRole() D:\\www\\pmc_v2\\application\\controllers\\pm.php:308
+[Wed Dec 11 16:21:52 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/favicon.ico
+[Wed Dec 11 17:30:27 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:30:40 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:31:21 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:31:35 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:33:10 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:33:40 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:33:41 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:33:41 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:33:41 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:33:42 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:33:42 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:33:42 2013] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v2/js
+[Wed Dec 11 17:42:48 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 23, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 17:42:48 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 17:42:48 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 17:42:48 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 17:42:48 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 17:42:48 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_list_role() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 17:42:48 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->ListRole() D:\\www\\pmc_v2\\application\\controllers\\pm.php:309, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 18:19:42 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 513, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 18:19:42 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 18:19:42 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 18:19:42 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 18:19:42 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 18:19:42 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_load_group_detail() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Wed Dec 11 18:19:42 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->ListProductOfOperationGroup() D:\\www\\pmc_v2\\application\\controllers\\pm.php:326, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 09:12:13 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 551
+[Thu Dec 12 09:12:13 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Thu Dec 12 09:12:13 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0
+[Thu Dec 12 09:12:13 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202
+[Thu Dec 12 09:12:13 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359
+[Thu Dec 12 09:12:13 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_get_role_detail() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359
+[Thu Dec 12 09:12:13 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->GetRolePermission() D:\\www\\pmc_v2\\application\\controllers\\pm.php:418
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected $end in D:\\www\\pmc_v2\\application\\views\\PM\\ajax_get_role_detail.php on line 47, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_get_role_detail() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP   5. Base_controller->loadview() D:\\www\\pmc_v2\\application\\controllers\\pm.php:429, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP   6. CI_Loader->view() D:\\www\\pmc_v2\\application\\controllers\\base_controller.php:59, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:15:53 2013] [error] [client 127.0.0.1] PHP   7. CI_Loader->_ci_load() D:\\www\\pmc_v2\\system\\core\\Loader.php:419, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected $end in D:\\www\\pmc_v2\\application\\views\\PM\\ajax_get_role_detail.php on line 47, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_get_role_detail() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP   5. Base_controller->loadview() D:\\www\\pmc_v2\\application\\controllers\\pm.php:429, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP   6. CI_Loader->view() D:\\www\\pmc_v2\\application\\controllers\\base_controller.php:59, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:52 2013] [error] [client 127.0.0.1] PHP   7. CI_Loader->_ci_load() D:\\www\\pmc_v2\\system\\core\\Loader.php:419, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected $end in D:\\www\\pmc_v2\\application\\views\\PM\\ajax_get_role_detail.php on line 47, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_get_role_detail() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP   5. Base_controller->loadview() D:\\www\\pmc_v2\\application\\controllers\\pm.php:429, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP   6. CI_Loader->view() D:\\www\\pmc_v2\\application\\controllers\\base_controller.php:59, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 11:16:53 2013] [error] [client 127.0.0.1] PHP   7. CI_Loader->_ci_load() D:\\www\\pmc_v2\\system\\core\\Loader.php:419, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 552, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_get_role_detail() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->GetRolePermission() D:\\www\\pmc_v2\\application\\controllers\\pm.php:420, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function result_array() on a non-object in D:\\www\\pmc_v2\\application\\models\\permission_model.php on line 552, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v2\\index.php:0, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v2\\index.php:202, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   4. Pm->ajax_get_role_detail() D:\\www\\pmc_v2\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8822/pm/rm
+[Thu Dec 12 13:19:20 2013] [error] [client 127.0.0.1] PHP   5. Permission_model->GetRolePermission() D:\\www\\pmc_v2\\application\\controllers\\pm.php:420, referer: http://localhost:8822/pm/rm
+[Mon Feb 10 11:00:48 2014] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v3/favicon.ico
+[Mon Feb 10 11:13:34 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function LoadCIByName() on a non-object in D:\\www\\pmc_v3\\application\\controllers\\base_controller.php on line 89
+[Mon Feb 10 11:13:34 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Feb 10 11:13:34 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Mon Feb 10 11:13:34 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Mon Feb 10 11:13:34 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Mon Feb 10 11:13:34 2014] [error] [client 127.0.0.1] PHP   4. Pm3->list_role() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Mon Feb 10 11:13:34 2014] [error] [client 127.0.0.1] PHP   5. Base_controller->loadview() D:\\www\\pmc_v3\\application\\controllers\\pm3.php:19
+[Mon Feb 10 11:13:34 2014] [error] [client 127.0.0.1] PHP   6. Base_controller->load_ci_by_name() D:\\www\\pmc_v3\\application\\controllers\\base_controller.php:70
+[Tue Feb 11 14:29:48 2014] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v3/favicon.ico
+[Tue Feb 11 15:11:31 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 23
+[Tue Feb 11 15:11:31 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Tue Feb 11 15:11:31 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Tue Feb 11 15:11:31 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Tue Feb 11 15:11:31 2014] [error] [client 127.0.0.1] PHP   3. Pm3->__construct() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:308
+[Tue Feb 11 15:11:31 2014] [error] [client 127.0.0.1] PHP   4. CI_Loader->model() D:\\www\\pmc_v3\\application\\controllers\\pm3.php:7
+[Tue Feb 11 15:14:26 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Mongo_base_model' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 5
+[Tue Feb 11 15:14:26 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Tue Feb 11 15:14:26 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Tue Feb 11 15:14:26 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Tue Feb 11 15:14:26 2014] [error] [client 127.0.0.1] PHP   3. Pm3->__construct() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:308
+[Tue Feb 11 15:14:26 2014] [error] [client 127.0.0.1] PHP   4. CI_Loader->model() D:\\www\\pmc_v3\\application\\controllers\\pm3.php:7
+[Tue Feb 11 15:14:26 2014] [error] [client 127.0.0.1] PHP   5. require_once() D:\\www\\pmc_v3\\system\\core\\Loader.php:299
+[Tue Feb 11 15:14:27 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Mongo_base_model' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 5
+[Tue Feb 11 15:14:27 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Tue Feb 11 15:14:27 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Tue Feb 11 15:14:27 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Tue Feb 11 15:14:27 2014] [error] [client 127.0.0.1] PHP   3. Pm3->__construct() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:308
+[Tue Feb 11 15:14:27 2014] [error] [client 127.0.0.1] PHP   4. CI_Loader->model() D:\\www\\pmc_v3\\application\\controllers\\pm3.php:7
+[Tue Feb 11 15:14:27 2014] [error] [client 127.0.0.1] PHP   5. require_once() D:\\www\\pmc_v3\\system\\core\\Loader.php:299
+[Tue Feb 11 15:22:39 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get_connection() on a non-object in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php on line 177, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:22:39 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:22:39 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:22:39 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:22:39 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:22:39 2014] [error] [client 127.0.0.1] PHP   4. Roles->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:22:39 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesOrder() D:\\www\\pmc_v3\\application\\controllers\\roles.php:26, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:22:39 2014] [error] [client 127.0.0.1] PHP   6. Mongo_base_model->UpdateMongoDB() D:\\www\\pmc_v3\\application\\models\\pm3_model.php:28, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:23:03 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get_connection() on a non-object in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php on line 177, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:23:03 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:23:03 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:23:03 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:23:03 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:23:03 2014] [error] [client 127.0.0.1] PHP   4. Roles->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:23:03 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesOrder() D:\\www\\pmc_v3\\application\\controllers\\roles.php:26, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:23:03 2014] [error] [client 127.0.0.1] PHP   6. Mongo_base_model->UpdateMongoDB() D:\\www\\pmc_v3\\application\\models\\pm3_model.php:28, referer: http://localhost:8824/pm3/list_role
+[Tue Feb 11 15:28:29 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get() on a non-object in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 18
+[Tue Feb 11 15:28:29 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Tue Feb 11 15:28:29 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Tue Feb 11 15:28:29 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Tue Feb 11 15:28:29 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Tue Feb 11 15:28:29 2014] [error] [client 127.0.0.1] PHP   4. Pm3->list_role() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Tue Feb 11 15:28:29 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->ListRole() D:\\www\\pmc_v3\\application\\controllers\\pm3.php:14
+[Tue Feb 11 15:44:36 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get() on a non-object in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 18
+[Tue Feb 11 15:44:36 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Tue Feb 11 15:44:36 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Tue Feb 11 15:44:36 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Tue Feb 11 15:44:36 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Tue Feb 11 15:44:36 2014] [error] [client 127.0.0.1] PHP   4. Pm3->list_role() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Tue Feb 11 15:44:36 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->ListRole() D:\\www\\pmc_v3\\application\\controllers\\pm3.php:14
+[Tue Feb 11 15:45:09 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get() on a non-object in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 18
+[Tue Feb 11 15:45:09 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Tue Feb 11 15:45:09 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Tue Feb 11 15:45:09 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Tue Feb 11 15:45:09 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Tue Feb 11 15:45:09 2014] [error] [client 127.0.0.1] PHP   4. Roles->list_data() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Tue Feb 11 15:45:09 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->ListRole() D:\\www\\pmc_v3\\application\\controllers\\roles.php:14
+[Tue Feb 11 15:46:16 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function get_connection() on a non-object in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php on line 177, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:46:16 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:46:16 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:46:16 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:46:16 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:46:16 2014] [error] [client 127.0.0.1] PHP   4. Roles->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:46:16 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesOrder() D:\\www\\pmc_v3\\application\\controllers\\roles.php:26, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:46:16 2014] [error] [client 127.0.0.1] PHP   6. Mongo_base_model->UpdateMongoDB() D:\\www\\pmc_v3\\application\\models\\pm3_model.php:29, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:47:13 2014] [error] [client 127.0.0.1] PHP Fatal error:  Cannot assign by reference to overloaded object in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 12, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:47:13 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:47:13 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:47:13 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:47:13 2014] [error] [client 127.0.0.1] PHP   3. Roles->__construct() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:308, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:47:13 2014] [error] [client 127.0.0.1] PHP   4. CI_Loader->model() D:\\www\\pmc_v3\\application\\controllers\\roles.php:7, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:47:13 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->__construct() D:\\www\\pmc_v3\\system\\core\\Loader.php:303, referer: http://localhost:8824/roles/list_data
+[Tue Feb 11 15:51:04 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function sort() on a non-object in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php on line 141
+[Tue Feb 11 15:51:04 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Tue Feb 11 15:51:04 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Tue Feb 11 15:51:04 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Tue Feb 11 15:51:04 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Tue Feb 11 15:51:04 2014] [error] [client 127.0.0.1] PHP   4. Roles->list_data() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359
+[Tue Feb 11 15:51:04 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->ListRole() D:\\www\\pmc_v3\\application\\controllers\\roles.php:14
+[Tue Feb 11 15:51:04 2014] [error] [client 127.0.0.1] PHP   6. Mongo_base_model->SelectMongoDB() D:\\www\\pmc_v3\\application\\models\\pm3_model.php:18
+[Wed Feb 12 13:50:40 2014] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v3/favicon.ico
+[Thu Feb 13 09:18:59 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 111
+[Thu Feb 13 09:18:59 2014] [error] [client 127.0.0.1] PHP Stack trace:
+[Thu Feb 13 09:18:59 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0
+[Thu Feb 13 09:18:59 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202
+[Thu Feb 13 09:18:59 2014] [error] [client 127.0.0.1] PHP   3. Permission->__construct() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:308
+[Thu Feb 13 09:18:59 2014] [error] [client 127.0.0.1] PHP   4. CI_Loader->model() D:\\www\\pmc_v3\\application\\controllers\\permission.php:7
+[Thu Feb 13 09:18:59 2014] [error] [client 127.0.0.1] File does not exist: D:/www/pmc_v3/favicon.ico
+[Thu Feb 13 09:20:13 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:13 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:13 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:13 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:13 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:13 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:13 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:32 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:32 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:32 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:32 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:32 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:32 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:32 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:35 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Fatal error:  Class 'MongId' not found in D:\\www\\pmc_v3\\application\\models\\pm3_model.php on line 78, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   4. Permission->save_list() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:20:36 2014] [error] [client 127.0.0.1] PHP   5. Pm3_model->SaveRolesPermission() D:\\www\\pmc_v3\\application\\controllers\\permission.php:49, referer: http://localhost:8824/permission?
+[Thu Feb 13 09:28:18 2014] [error] [client 127.0.0.1] PHP Fatal error:  Uncaught exception 'Exception' with message 'MongoDB::__construct(): invalid name ' in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php:142\nStack trace:\n#0 D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php(142): MongoClient->selectCollection('cmdbv2_pm', '')\n#1 D:\\www\\pmc_v3\\application\\models\\pm3_model.php(110): Mongo_base_model->SelectMongoDB(Array)\n#2 D:\\www\\pmc_v3\\application\\controllers\\permission.php(34): Pm3_model->LoadUserGroupPermission(Array)\n#3 [internal function]: Permission->ajax_load_roles_permission()\n#4 D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php(359): call_user_func_array(Array, Array)\n#5 D:\\www\\pmc_v3\\index.php(202): require_once('D:\\www\\pmc_v3\\s...')\n#6 {main}\n  thrown in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php on line 142
+[Thu Feb 13 15:15:58 2014] [error] [client 127.0.0.1] PHP Fatal error:  Uncaught exception 'MongoException' with message 'invalid regex' in D:\\www\\pmc_v3\\application\\models\\pm3_admin_model.php:87\nStack trace:\n#0 D:\\www\\pmc_v3\\application\\models\\pm3_admin_model.php(87): MongoRegex->__construct('/guest')\n#1 D:\\www\\pmc_v3\\application\\controllers\\pm_permission.php(11): Pm3_admin_model->LoadUserProfile()\n#2 [internal function]: Pm_permission->index()\n#3 D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php(359): call_user_func_array(Array, Array)\n#4 D:\\www\\pmc_v3\\index.php(202): require_once('D:\\www\\pmc_v3\\s...')\n#5 {main}\n  thrown in D:\\www\\pmc_v3\\application\\models\\pm3_admin_model.php on line 87
+[Thu Feb 13 16:02:45 2014] [error] [client 127.0.0.1] PHP Fatal error:  Uncaught exception 'MongoCursorException' with message '10.30.15.8:27017: invalid query' in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php:153\nStack trace:\n#0 D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php(153): MongoCursor->rewind()\n#1 D:\\www\\pmc_v3\\application\\models\\pm3_model.php(37): Mongo_base_model->SelectMongoDB(Array, 'user_groups', 0, 1000000000, Array)\n#2 D:\\www\\pmc_v3\\application\\controllers\\permission.php(25): Pm3_model->ListUserGroups(Array)\n#3 D:\\www\\pmc_v3\\application\\controllers\\permission.php(17): Permission->list_data()\n#4 [internal function]: Permission->index()\n#5 D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php(359): call_user_func_array(Array, Array)\n#6 D:\\www\\pmc_v3\\index.php(202): require_once('D:\\www\\pmc_v3\\s...')\n#7 {main}\n  thrown in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php on line 153, referer: http://localhost:8824/roles
+[Thu Feb 13 16:17:38 2014] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Pm3_model::ListAdminPermissionName() in D:\\www\\pmc_v3\\application\\controllers\\pm_permission.php on line 33, referer: http://localhost:8824/pm_permission
+[Thu Feb 13 16:17:38 2014] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://localhost:8824/pm_permission
+[Thu Feb 13 16:17:38 2014] [error] [client 127.0.0.1] PHP   1. {main}() D:\\www\\pmc_v3\\index.php:0, referer: http://localhost:8824/pm_permission
+[Thu Feb 13 16:17:38 2014] [error] [client 127.0.0.1] PHP   2. require_once() D:\\www\\pmc_v3\\index.php:202, referer: http://localhost:8824/pm_permission
+[Thu Feb 13 16:17:38 2014] [error] [client 127.0.0.1] PHP   3. call_user_func_array() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/pm_permission
+[Thu Feb 13 16:17:38 2014] [error] [client 127.0.0.1] PHP   4. Pm_permission->ajax_load_roles_permission() D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php:359, referer: http://localhost:8824/pm_permission
+[Thu Feb 13 17:51:42 2014] [error] [client 127.0.0.1] PHP Fatal error:  Uncaught exception 'Exception' with message 'MongoDB::__construct(): invalid name ' in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php:125\nStack trace:\n#0 D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php(125): MongoClient->selectCollection('cmdbv2_pm', '')\n#1 D:\\www\\pmc_v3\\application\\models\\pm3_model.php(141): Mongo_base_model->SelectOneMongoDB(Array)\n#2 D:\\www\\pmc_v3\\application\\controllers\\base_controller.php(58): Pm3_model->LoadUserProfile()\n#3 D:\\www\\pmc_v3\\application\\controllers\\base_controller.php(51): Base_controller->InitModelAndUserProfile()\n#4 D:\\www\\pmc_v3\\application\\controllers\\pm_permission.php(6): Base_controller->__construct()\n#5 D:\\www\\pmc_v3\\system\\core\\CodeIgniter.php(308): Pm_permission->__construct()\n#6 D:\\www\\pmc_v3\\index.php(202): require_once('D:\\www\\pmc_v3\\s...')\n#7 {main}\n  thrown in D:\\www\\pmc_v3\\application\\models\\mongo_base_model.php on line 125

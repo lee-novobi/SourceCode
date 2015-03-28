@@ -1,0 +1,12 @@
+/************************************************************/
+/*          MAIN STYLESHEET FOR CCU_PRODUCT VIEW            */
+/************************************************************/
+
+/* #tblCCUProductAlert > thead > tr > th,
+#tblCCUDashboardLog > thead > tr > th {
+	color: #333;
+} */
+
+.list-zebra > thead > tr > th {
+	color: #333 !important;
+}

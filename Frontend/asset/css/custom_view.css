@@ -1,0 +1,90 @@
+.ui-icon{
+	background-image: url(../images/ui-icons_222222_256x240.png);
+	width: 16px;
+	height: 16px;
+}
+.ui-icon-minusthick { background-image: url(../images/layout/arrow-31-512_up.png); background-position: left center }
+.ui-icon-plusthick { background-image: url(../images/layout/arrow-31-512_down.png); background-position: left center }
+.column {
+	width: 170px;
+	float: left;
+	padding-bottom: 100px;
+}
+.portlet {
+	margin: 0 1em 1em 0;
+	padding: 0.3em;
+}
+.portlet-header {
+	padding: 0.2em 0.3em;
+	margin-bottom: 0.5em;
+	position: relative;
+}
+.portlet-content {
+
+}
+.portlet-toggle {
+	position: absolute;
+	top: 50%;
+	right: 5px;
+	margin-top: -8px;
+}
+.portlet-placeholder {
+	border: 1px dotted black;
+	/*margin: 0 1em 1em 0;*/
+	height: 120px;
+}
+.divCustomViewCol{
+	float: left;
+	margin-left: 10px;
+	min-height: 150px;
+	padding-bottom: 100px;
+	overflow-y: auto;
+}
+.divCustomViewCol .divGroupFields{
+	border: 1px solid #eee;
+	padding: 2px;
+	background-color: #028ecd;
+	font-size: 12px;
+	margin-bottom: 20px;
+}
+.divCustomViewCol .divGroupFields .title,
+.divCustomViewCol .divGroupFields ul{
+	padding: 10px 5px;
+	background-color: #17ACEF;
+	font-weight: bold;
+}
+.divCustomViewCol .divGroupFields .title{
+	font-size: 14px;
+	position: relative;
+}
+.divCustomViewCol .divGroupFields ul{
+	list-style: none;
+	padding: 5px;
+	margin: 0;
+	background-color: #fff;
+}
+.divCustomViewCol .divGroupFields ul > li{
+	padding: 8px 5px;
+	position: relative;
+	/*border: 1px solid #ccc;
+	margin-top:2px;*/
+}
+.divCustomViewCol .divGroupFields ul > li.even{background-color: #f6f7f9;}
+.divCustomViewCol .divGroupFields ul > li.odd{background-color: #fdfdfd;}
+.divCustomViewCol .divGroupFields ul > li > label{
+	top: 10px;
+	position: absolute;
+}
+.divCustomViewCol .divGroupFields ul > li > input[type=checkbox]{
+}
+
+.ui-state-highlight {
+	height: 1.5em; line-height: 1.2em;
+	border: 1px solid #f3df73
+}
+#topControl, #bottomControl{
+	text-align: right;
+	padding-right: 15px;
+}
+#topControl{margin-top: -30px;}
+#bottomControl{margin-top: -100px;}

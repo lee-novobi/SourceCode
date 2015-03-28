@@ -1,0 +1,37 @@
+#table-roles-permission > thead > tr > th
+{
+	/*padding-top: 15px;
+	padding-bottom: 15px;*/
+}
+#table-roles-permission > tbody > tr.ci-title{
+	cursor: pointer;
+}
+#table-roles-permission > tbody > tr.ci-title > th.expanded,
+#table-roles-permission > tbody > tr.ci-title > th.collapsed
+{
+	padding: 10px 20px;
+	font-weight: bold;
+	font-size: 13px;
+	border-bottom: 1px solid #ccc;
+}
+#table-roles-permission > tbody > tr.ci-title > th.expanded
+{
+	background: url(../images/icons/bullet-down.png) no-repeat scroll 5px center;
+}
+#table-roles-permission > tbody > tr.ci-title > th.collapsed
+{
+	background: url(../images/icons/bullet-right.png) no-repeat scroll 5px center;
+}
+#table-roles-permission > tbody > tr > th
+{
+	padding-left: 35px;
+	border-bottom: 1px solid #eee;
+}
+#table-roles-permission > tbody > tr[row-type='item']:hover
+{
+	background-color: #f8f8f8;
+}
+#hdtable-roles-permission table thead tr th{
+	/*padding-top: 15px;
+	padding-bottom: 15px;*/
+}

@@ -1,0 +1,13 @@
+#tblFilter > tbody > tr > td {
+	border-bottom: none;
+	
+}
+
+#tblFilter > tbody > tr > th {
+	font-weight: bold;
+	
+}
+
+.sm {
+	padding: 4px 7px;
+}

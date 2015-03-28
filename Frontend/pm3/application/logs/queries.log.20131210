@@ -1,0 +1,270 @@
+                127.0.0.1       2013-12-10 11:00:53 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:00:53 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:00:53 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:00:53 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:01:11 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:01:11 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:01:11 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:01:11 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:10:05 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:10:05 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:10:05 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:10:05 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:14:55 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:14:55 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:14:55 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:14:55 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:15:33 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:15:33 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:15:33 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:15:33 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:18:35 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:18:35 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:18:35 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:18:35 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:18:50 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:18:50 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:18:50 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:18:50 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:34:01 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:34:01 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:34:01 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:34:01 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:35:58 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:35:58 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:35:58 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:35:58 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:36:42 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:36:42 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:36:42 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:36:42 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:37:23 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:37:23 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:37:23 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:37:23 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:37:26 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:37:26 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:37:26 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:37:26 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:37:38 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:37:38 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:37:38 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:37:38 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:38:46 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:38:46 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:38:46 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:38:46 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:41:01 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:41:01 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:41:01 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:41:01 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:47:31 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:47:31 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:47:31 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:47:31 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:48:07 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:48:07 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:48:07 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:48:07 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:50:31 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:50:31 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:50:31 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:50:31 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:59:47 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:59:47 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 11:59:47 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 11:59:47 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:00:10 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:00:10 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:00:10 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:00:10 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:00:48 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:00:48 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:00:48 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:00:48 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:04:52 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:04:52 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:04:52 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:04:52 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:07:18 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:07:18 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:07:18 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:07:18 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:07:31 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:07:31 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:07:31 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:07:31 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:07:43 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:07:43 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:07:43 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:07:43 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:07:46 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:07:46 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:07:46 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:07:46 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:15:43 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:15:43 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 12:15:43 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 12:15:43 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:39:01 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:39:01 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:39:01 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:39:01 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:45:08 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:45:08 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:45:08 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:45:08 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:47:54 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:47:54 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:47:54 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:47:54 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:48:18 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:48:18 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:48:18 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:48:18 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:49:36 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:49:36 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:49:36 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:49:36 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:50:54 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:50:54 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:50:54 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:50:54 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:52:21 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:52:21 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:52:21 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:52:21 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:56:32 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:56:32 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:56:32 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:56:32 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:57:02 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:57:02 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:57:02 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:57:02 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:57:27 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:57:27 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:57:27 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:57:27 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:57:39 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:57:39 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:57:39 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:57:39 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:58:15 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:58:15 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 13:58:15 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 13:58:15 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:12:51 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 16:12:51 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:12:51 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 16:12:51 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:12:59 -->	SELECT d.* FROM 6_departments d WHERE deleted=0 ORDER BY name
+[took:0.59] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:12:59 -->	SELECT pn.* FROM 5_permission_name pn WHERE deleted=0 ORDER BY pn.name
+[took:0.4] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:12:59 -->	SELECT d.* FROM 6_departments d WHERE deleted=0 ORDER BY name
+[took:0.59] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:12:59 -->	SELECT pn.* FROM 5_permission_name pn WHERE deleted=0 ORDER BY pn.name
+[took:0.4] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:12:59 -->	SELECT p.* FROM 4_products p INNER JOIN 6_departments d ON(p.department_id=d.id AND d.deleted=0) WHERE p.deleted=0
+[took:0.529] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:12:59 -->	SELECT p.* FROM 4_products p INNER JOIN 6_departments d ON(p.department_id=d.id AND d.deleted=0) WHERE p.deleted=0
+[took:0.529] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:14:05 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 16:14:05 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:14:05 -->	SELECT id,name,description,hie_path FROM 6_operation_groups WHERE deleted=0
+                127.0.0.1       2013-12-10 16:14:05 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:52:48 -->	SELECT og.id,og.name,og.description,og.hie_path,d.id department_id,d.name department_name,d.department_code FROM 6_operation_groups og INNER JOIN 6_departments d ON(og.department=d.id AND d.deleted=0) WHERE og.deleted=0
+                127.0.0.1       2013-12-10 16:52:48 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 16:52:48 -->	SELECT og.id,og.name,og.description,og.hie_path,d.id department_id,d.name department_name,d.department_code FROM 6_operation_groups og INNER JOIN 6_departments d ON(og.department=d.id AND d.deleted=0) WHERE og.deleted=0
+                127.0.0.1       2013-12-10 16:52:48 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 17:25:21 -->	SELECT og.id,og.name,og.description,og.hie_path,d.id department_id,d.name department_name,d.department_code FROM 6_operation_groups og INNER JOIN 6_departments d ON(og.department=d.id AND d.deleted=0) WHERE og.deleted=0
+                127.0.0.1       2013-12-10 17:25:21 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------
+                127.0.0.1       2013-12-10 17:25:21 -->	SELECT og.id,og.name,og.description,og.hie_path,d.id department_id,d.name department_name,d.department_code FROM 6_operation_groups og INNER JOIN 6_departments d ON(og.department=d.id AND d.deleted=0) WHERE og.deleted=0
+                127.0.0.1       2013-12-10 17:25:21 -->	SELECT * FROM 6_operation_groups_relationship WHERE deleted=0
+[took:0.001] -----------------------------------------------------------------------------

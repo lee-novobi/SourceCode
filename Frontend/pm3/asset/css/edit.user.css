@@ -1,0 +1,50 @@
+.tbl-user-permission-data a{
+	color: #00f;
+	text-decoration: underline;
+}
+.tbl-user-permission-data strong{
+	font-weight: bold;
+	font-size: 12px;
+}
+.tbl-user-permission-data .section{
+	border-bottom: 2px solid #ddd;
+}
+.tbl-user-permission-data{
+	width: 700px;
+	margin: 20px auto;
+	/*border-top: 0px solid #ddd;
+	border-left: 0px solid #ddd;*/
+	border: 2px solid #ddd;
+}
+.tbl-user-permission-data td,
+.tbl-user-permission-data th
+{
+	border-bottom: 0px solid #ddd;
+	border-right: 0px solid #ddd;
+	padding: 5px;
+}
+.tbl-user-permission-data tr.rowGroup td,
+.tbl-user-permission-data tr.rowProduct td
+{
+	padding: 5px 20px 5px;
+}
+.tbl-user-permission-data .section td strong{
+	font-size: 14px;
+}
+.tbl-user-permission-data span.msg.failed,
+.tbl-user-permission-data span.msg.success,
+.tbl-user-permission-data span.msg.waiting
+{
+	padding-left: 15px;
+	color: #f00;
+	line-height: 15px;
+	background: url(../images/error.gif) center left no-repeat;
+}
+.tbl-user-permission-data span.msg.success{
+	color: #0f0;
+	background: url(../images/icon_tickmark.gif) center left no-repeat;
+}
+.tbl-user-permission-data span.msg.waiting{
+	color: #aaa;
+	background: url(../images/loading.gif) center left no-repeat;
+}
